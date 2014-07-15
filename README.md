@@ -33,7 +33,7 @@ Choose away. And learn. Because maybe we just aren't so different after all.
 
 ### Contributors 
 
-* Jake Huhn, Project Manager ([github](https://github.com/masidonion) | [twitter](https://twitter.com/huhnytunes)) 
+* Jake Huhn, Project Manager ([github](https://github.com/huhnytunes) | [twitter](https://twitter.com/huhnytunes)) 
 * Kevin Zhou, Team Lead ([github]() | [twitter]())
 * Danielle Adams, Front-End Specialist ([github]() | [twitter]())
 * Ruben Osorio, Back-End Specialist ([github]() | [twitter]())
